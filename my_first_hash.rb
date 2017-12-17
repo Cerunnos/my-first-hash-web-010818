@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  hash={index0=>0,index1=>1,index2=>2,index3=>3}
+  hash={"index0"=>0,"index1"=>1,"index2"=>2,"index3"=>3}
   hash
 end
 
